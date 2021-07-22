@@ -24,7 +24,7 @@ class JavaSpringBootTestApplicationTests {
 
 	@Test
 	void StringTest(){
-		String s1 = "abcde@GD";
+		String s1 = "xxxxxxx@GD";
 		String s2 = s1.split("@")[0];
 		System.out.println(s2);
 	}
