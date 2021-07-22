@@ -13,7 +13,7 @@ public class NormalTest {
 //        JSONObject Obj = JSONObject.parseObject(str);
 //        System.out.println(Obj.toString());
 //        System.out.println(Obj.get("accountType"));
-        String s1 = "abcde@GD";
+        String s1 = "123456@GD";
         String s2 = s1.split("@")[0];
         System.out.println(s2);
 
